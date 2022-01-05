@@ -1,5 +1,5 @@
 # PracticalGit
-New text here
+New text here - changes in main branch
 Git: for absolute beginners
 This is a new text
 Mattia Gatto
